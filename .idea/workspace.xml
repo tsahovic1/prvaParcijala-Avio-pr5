@@ -18,6 +18,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1UZkYQ8MYTB1Qlc2BQ5U7UeduHJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -135,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567586111745</updated>
-      <workItem from="1575571555050" duration="13059000" />
+      <workItem from="1575571555050" duration="13146000" />
     </task>
     <task id="LOCAL-00001" summary="Initial import">
       <created>1567595805025</created>
